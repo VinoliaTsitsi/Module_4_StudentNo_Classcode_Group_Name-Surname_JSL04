@@ -31,5 +31,3 @@ currentTemp === 4 || currentTemp <= 5 ? console.log('Chilled to perfection!'): c
 // #### Challenge 5: Late Night Coding Session 
 let currentHour = 5; 
 currentHour >= 7 && currentHour < 24 ? console.log('Unleash the beast!'): console.log('Better stick to water')
-
-
